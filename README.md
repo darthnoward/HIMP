@@ -14,6 +14,7 @@ As those bloatware are usually a few dozens of megabytes, one can assume a mere 
 ![record](record.gif)
 
 At the very beginning when selecting screenshot region, the cursor wasn't recorded for some reason.
+
 The flickerings are only observed in recording.
 
 ---
