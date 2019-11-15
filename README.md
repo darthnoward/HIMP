@@ -1,7 +1,10 @@
 # HIMP: H\*\*l\*\* Image Manipulation Program
 The name is just a clickbait.
+
 A script that enables minimal screenshot utility annotation function.
+
 Since most screenshot programs with annotate functionality are bloated, I wrote this script to do the same thing for me. 
+
 As those bloatware are usually a few dozens of megabytes, one can assume a mere few kilobytes script is worthy of being called minimal.
 
 *While the drawing are easy as hell with OpenCV library, what's really tricky are **preview while drawing**, **eraser** and **undo**.*
